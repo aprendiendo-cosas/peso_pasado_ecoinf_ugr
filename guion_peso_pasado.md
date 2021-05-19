@@ -33,7 +33,7 @@ La sesión completa se puede ver en el siguiente vídeo.
 
 Las fuentes de datos y de código necesarios son los siguientes:
 
-+ [Mapa de densidad del pinar](https://github.com/aprendiendo-cosas/peso_pasado_ecoinf_ugr/raw/main/geoinfo/density_kriging.asc). En este caso se usa el archivo creado mediante la técnica de kriging. Pero seguramente quedará mejor si se usa el mapa de densidad obtenido por teledetección (busca esta capa en el resto de guiones).
++ [Mapa de densidad del pinar](https://github.com/aprendiendo-cosas/peso_pasado_ecoinf_ugr/raw/main/geoinfo/density_kriging.asc.zip). En este caso se usa el archivo creado mediante la técnica de kriging. Pero seguramente quedará mejor si se usa el mapa de densidad obtenido por teledetección (busca esta capa en el resto de guiones).
 + [Mapa de usos del suelo en 1956](https://github.com/aprendiendo-cosas/peso_pasado_ecoinf_ugr/raw/main/geoinfo/uso_pasado_pinos.tif). Ya está en formato raster y está codificado para poder realizar el análisis.
 + [Código de R](https://github.com/aprendiendo-cosas/peso_pasado_ecoinf_ugr/raw/main/geoinfo/proyeccion_el_peso_pasado.R.zip) para realizar la "proyección" del modelo estadístico a los datos anteriores. El código está muy bien documentado, así que es autoexplicativo.
 
