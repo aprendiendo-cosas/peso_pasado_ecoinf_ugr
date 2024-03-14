@@ -45,7 +45,7 @@ Las fuentes de datos y de código necesarios para realizar la sesión son los si
 
 + [Mapa de densidad del pinar](https://github.com/aprendiendo-cosas/peso_pasado_ecoinf_ugr/raw/2023-2024/geoinfo/densidad_pinar_interpolada.tif). En este caso se usa el archivo creado mediante la técnica de interpolación espacial. También se podría usar el mapa de densidad obtenido por teledetección (busca esta capa en el resto de guiones).
 + [Mapa de usos del suelo en 1956](https://github.com/aprendiendo-cosas/peso_pasado_ecoinf_ugr/raw/2023-2024/geoinfo/usos_pasado_2024.tif). Ya está en formato raster, codificado para poder realizar el análisis y generado con la misma extensión y resolución que el mapa de densidad interpolada. Si usas el generado por teledetección y tienes problemas con R, contáctanos.
-+ [Código de R](https://github.com/aprendiendo-cosas/peso_pasado_ecoinf_ugr/raw/2023-2024/geoinfo/proyeccion_el_peso_pasado.R.zip) para realizar la "proyección" del modelo estadístico a los datos anteriores. El código está muy bien documentado, así que es autoexplicativo.
++ [Código de R](https://github.com/aprendiendo-cosas/peso_pasado_ecoinf_ugr/raw/2023-2024/geoinfo/proyeccion_el_peso_pasado.R) para realizar la "proyección" del modelo estadístico a los datos anteriores. El código está muy bien documentado, así que es autoexplicativo.
 
 
 Parte de la sesión de un curso anterior se puede ver en el siguiente vídeo.
